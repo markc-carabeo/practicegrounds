@@ -1,0 +1,8 @@
+# OpenAI (Codex / ChatGPT desktop) settings for this skill. Claude ignores this file.
+interface:
+  display_name: "Homepage Redesign"
+  short_description: "One conversion-focused homepage redesign, Before & After, Sales Handover and Loom script from a prospect's domain"
+  brand_color: "#334c94"
+  default_prompt: "Run the homepage redesign for example.com.au"
+policy:
+  allow_implicit_invocation: true
